@@ -4,6 +4,9 @@
 Plugin for sending commands to your Itho Wifi module.
 More info on that itho wifi module here: https://github.com/arjenhiemstra/ithowifi
 
+![image](https://github.com/galadril/Domoticz-Itho-Wifi-Plugin/assets/14561640/e2847462-2946-411f-9d1f-b47c1ff23091)
+
+
 
 ## Installation
 
